@@ -1,0 +1,668 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		820B7A3A2D0E5C3400CFAEF1 /* WHOPadexApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820B7A392D0E5C3400CFAEF1 /* WHOPadexApp.swift */; };
+		820B7A3C2D0E5C3400CFAEF1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820B7A3B2D0E5C3400CFAEF1 /* ContentView.swift */; };
+		820B7A3E2D0E5C3600CFAEF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 820B7A3D2D0E5C3600CFAEF1 /* Assets.xcassets */; };
+		820B7A412D0E5C3600CFAEF1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 820B7A402D0E5C3600CFAEF1 /* Preview Assets.xcassets */; };
+		820B7A4B2D0E5C3600CFAEF1 /* WHOPadexTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820B7A4A2D0E5C3600CFAEF1 /* WHOPadexTests.swift */; };
+		820B7A552D0E5C3600CFAEF1 /* WHOPadexUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820B7A542D0E5C3600CFAEF1 /* WHOPadexUITests.swift */; };
+		820B7A572D0E5C3600CFAEF1 /* WHOPadexUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820B7A562D0E5C3600CFAEF1 /* WHOPadexUITestsLaunchTests.swift */; };
+		820B7A652D0E5C7900CFAEF1 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820B7A642D0E5C7900CFAEF1 /* Pokemon.swift */; };
+		820B7A6B2D0E6D3D00CFAEF1 /* PokemonData.json in Resources */ = {isa = PBXBuildFile; fileRef = 820B7A6A2D0E6D3D00CFAEF1 /* PokemonData.json */; };
+		820B7A722D0E735E00CFAEF1 /* PokeDex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820B7A712D0E735E00CFAEF1 /* PokeDex.swift */; };
+		820B7A752D0EB24A00CFAEF1 /* PokemonRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820B7A742D0EB24A00CFAEF1 /* PokemonRowView.swift */; };
+		820B7A7A2D0EBE8C00CFAEF1 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 820B7A792D0EBE8C00CFAEF1 /* SDWebImageSwiftUI */; };
+		820B7A7C2D0FACB000CFAEF1 /* WHOPWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820B7A7B2D0FACB000CFAEF1 /* WHOPWebView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		820B7A472D0E5C3600CFAEF1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 820B7A2E2D0E5C3400CFAEF1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 820B7A352D0E5C3400CFAEF1;
+			remoteInfo = WHOPadex;
+		};
+		820B7A512D0E5C3600CFAEF1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 820B7A2E2D0E5C3400CFAEF1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 820B7A352D0E5C3400CFAEF1;
+			remoteInfo = WHOPadex;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		820B7A362D0E5C3400CFAEF1 /* WHOPadex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WHOPadex.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		820B7A392D0E5C3400CFAEF1 /* WHOPadexApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WHOPadexApp.swift; sourceTree = "<group>"; };
+		820B7A3B2D0E5C3400CFAEF1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		820B7A3D2D0E5C3600CFAEF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		820B7A402D0E5C3600CFAEF1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		820B7A462D0E5C3600CFAEF1 /* WHOPadexTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WHOPadexTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		820B7A4A2D0E5C3600CFAEF1 /* WHOPadexTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WHOPadexTests.swift; sourceTree = "<group>"; };
+		820B7A502D0E5C3600CFAEF1 /* WHOPadexUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WHOPadexUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		820B7A542D0E5C3600CFAEF1 /* WHOPadexUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WHOPadexUITests.swift; sourceTree = "<group>"; };
+		820B7A562D0E5C3600CFAEF1 /* WHOPadexUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WHOPadexUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		820B7A642D0E5C7900CFAEF1 /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
+		820B7A6A2D0E6D3D00CFAEF1 /* PokemonData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = PokemonData.json; sourceTree = "<group>"; };
+		820B7A712D0E735E00CFAEF1 /* PokeDex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeDex.swift; sourceTree = "<group>"; };
+		820B7A742D0EB24A00CFAEF1 /* PokemonRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonRowView.swift; sourceTree = "<group>"; };
+		820B7A7B2D0FACB000CFAEF1 /* WHOPWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WHOPWebView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		820B7A332D0E5C3400CFAEF1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				820B7A7A2D0EBE8C00CFAEF1 /* SDWebImageSwiftUI in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		820B7A432D0E5C3600CFAEF1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		820B7A4D2D0E5C3600CFAEF1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		820B7A2D2D0E5C3400CFAEF1 = {
+			isa = PBXGroup;
+			children = (
+				820B7A382D0E5C3400CFAEF1 /* WHOPadex */,
+				820B7A492D0E5C3600CFAEF1 /* WHOPadexTests */,
+				820B7A532D0E5C3600CFAEF1 /* WHOPadexUITests */,
+				820B7A372D0E5C3400CFAEF1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		820B7A372D0E5C3400CFAEF1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				820B7A362D0E5C3400CFAEF1 /* WHOPadex.app */,
+				820B7A462D0E5C3600CFAEF1 /* WHOPadexTests.xctest */,
+				820B7A502D0E5C3600CFAEF1 /* WHOPadexUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		820B7A382D0E5C3400CFAEF1 /* WHOPadex */ = {
+			isa = PBXGroup;
+			children = (
+				820B7A732D0EB22100CFAEF1 /* Views */,
+				820B7A692D0E6D1D00CFAEF1 /* Data */,
+				820B7A632D0E5C5100CFAEF1 /* Data Models */,
+				820B7A392D0E5C3400CFAEF1 /* WHOPadexApp.swift */,
+				820B7A3B2D0E5C3400CFAEF1 /* ContentView.swift */,
+				820B7A3D2D0E5C3600CFAEF1 /* Assets.xcassets */,
+				820B7A3F2D0E5C3600CFAEF1 /* Preview Content */,
+			);
+			path = WHOPadex;
+			sourceTree = "<group>";
+		};
+		820B7A3F2D0E5C3600CFAEF1 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				820B7A402D0E5C3600CFAEF1 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		820B7A492D0E5C3600CFAEF1 /* WHOPadexTests */ = {
+			isa = PBXGroup;
+			children = (
+				820B7A4A2D0E5C3600CFAEF1 /* WHOPadexTests.swift */,
+			);
+			path = WHOPadexTests;
+			sourceTree = "<group>";
+		};
+		820B7A532D0E5C3600CFAEF1 /* WHOPadexUITests */ = {
+			isa = PBXGroup;
+			children = (
+				820B7A542D0E5C3600CFAEF1 /* WHOPadexUITests.swift */,
+				820B7A562D0E5C3600CFAEF1 /* WHOPadexUITestsLaunchTests.swift */,
+			);
+			path = WHOPadexUITests;
+			sourceTree = "<group>";
+		};
+		820B7A632D0E5C5100CFAEF1 /* Data Models */ = {
+			isa = PBXGroup;
+			children = (
+				820B7A6C2D0E711B00CFAEF1 /* 'Mons */,
+				820B7A712D0E735E00CFAEF1 /* PokeDex.swift */,
+			);
+			path = "Data Models";
+			sourceTree = "<group>";
+		};
+		820B7A692D0E6D1D00CFAEF1 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				820B7A6A2D0E6D3D00CFAEF1 /* PokemonData.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		820B7A6C2D0E711B00CFAEF1 /* 'Mons */ = {
+			isa = PBXGroup;
+			children = (
+				820B7A642D0E5C7900CFAEF1 /* Pokemon.swift */,
+			);
+			path = "'Mons";
+			sourceTree = "<group>";
+		};
+		820B7A732D0EB22100CFAEF1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				820B7A742D0EB24A00CFAEF1 /* PokemonRowView.swift */,
+				820B7A7B2D0FACB000CFAEF1 /* WHOPWebView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		820B7A352D0E5C3400CFAEF1 /* WHOPadex */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 820B7A5A2D0E5C3600CFAEF1 /* Build configuration list for PBXNativeTarget "WHOPadex" */;
+			buildPhases = (
+				820B7A322D0E5C3400CFAEF1 /* Sources */,
+				820B7A332D0E5C3400CFAEF1 /* Frameworks */,
+				820B7A342D0E5C3400CFAEF1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WHOPadex;
+			packageProductDependencies = (
+				820B7A792D0EBE8C00CFAEF1 /* SDWebImageSwiftUI */,
+			);
+			productName = WHOPadex;
+			productReference = 820B7A362D0E5C3400CFAEF1 /* WHOPadex.app */;
+			productType = "com.apple.product-type.application";
+		};
+		820B7A452D0E5C3600CFAEF1 /* WHOPadexTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 820B7A5D2D0E5C3600CFAEF1 /* Build configuration list for PBXNativeTarget "WHOPadexTests" */;
+			buildPhases = (
+				820B7A422D0E5C3600CFAEF1 /* Sources */,
+				820B7A432D0E5C3600CFAEF1 /* Frameworks */,
+				820B7A442D0E5C3600CFAEF1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				820B7A482D0E5C3600CFAEF1 /* PBXTargetDependency */,
+			);
+			name = WHOPadexTests;
+			productName = WHOPadexTests;
+			productReference = 820B7A462D0E5C3600CFAEF1 /* WHOPadexTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		820B7A4F2D0E5C3600CFAEF1 /* WHOPadexUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 820B7A602D0E5C3600CFAEF1 /* Build configuration list for PBXNativeTarget "WHOPadexUITests" */;
+			buildPhases = (
+				820B7A4C2D0E5C3600CFAEF1 /* Sources */,
+				820B7A4D2D0E5C3600CFAEF1 /* Frameworks */,
+				820B7A4E2D0E5C3600CFAEF1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				820B7A522D0E5C3600CFAEF1 /* PBXTargetDependency */,
+			);
+			name = WHOPadexUITests;
+			productName = WHOPadexUITests;
+			productReference = 820B7A502D0E5C3600CFAEF1 /* WHOPadexUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		820B7A2E2D0E5C3400CFAEF1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					820B7A352D0E5C3400CFAEF1 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					820B7A452D0E5C3600CFAEF1 = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = 820B7A352D0E5C3400CFAEF1;
+					};
+					820B7A4F2D0E5C3600CFAEF1 = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = 820B7A352D0E5C3400CFAEF1;
+					};
+				};
+			};
+			buildConfigurationList = 820B7A312D0E5C3400CFAEF1 /* Build configuration list for PBXProject "WHOPadex" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 820B7A2D2D0E5C3400CFAEF1;
+			packageReferences = (
+				820B7A782D0EBE8C00CFAEF1 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+			);
+			productRefGroup = 820B7A372D0E5C3400CFAEF1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				820B7A352D0E5C3400CFAEF1 /* WHOPadex */,
+				820B7A452D0E5C3600CFAEF1 /* WHOPadexTests */,
+				820B7A4F2D0E5C3600CFAEF1 /* WHOPadexUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		820B7A342D0E5C3400CFAEF1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				820B7A6B2D0E6D3D00CFAEF1 /* PokemonData.json in Resources */,
+				820B7A412D0E5C3600CFAEF1 /* Preview Assets.xcassets in Resources */,
+				820B7A3E2D0E5C3600CFAEF1 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		820B7A442D0E5C3600CFAEF1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		820B7A4E2D0E5C3600CFAEF1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		820B7A322D0E5C3400CFAEF1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				820B7A3C2D0E5C3400CFAEF1 /* ContentView.swift in Sources */,
+				820B7A7C2D0FACB000CFAEF1 /* WHOPWebView.swift in Sources */,
+				820B7A752D0EB24A00CFAEF1 /* PokemonRowView.swift in Sources */,
+				820B7A722D0E735E00CFAEF1 /* PokeDex.swift in Sources */,
+				820B7A3A2D0E5C3400CFAEF1 /* WHOPadexApp.swift in Sources */,
+				820B7A652D0E5C7900CFAEF1 /* Pokemon.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		820B7A422D0E5C3600CFAEF1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				820B7A4B2D0E5C3600CFAEF1 /* WHOPadexTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		820B7A4C2D0E5C3600CFAEF1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				820B7A572D0E5C3600CFAEF1 /* WHOPadexUITestsLaunchTests.swift in Sources */,
+				820B7A552D0E5C3600CFAEF1 /* WHOPadexUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		820B7A482D0E5C3600CFAEF1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 820B7A352D0E5C3400CFAEF1 /* WHOPadex */;
+			targetProxy = 820B7A472D0E5C3600CFAEF1 /* PBXContainerItemProxy */;
+		};
+		820B7A522D0E5C3600CFAEF1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 820B7A352D0E5C3400CFAEF1 /* WHOPadex */;
+			targetProxy = 820B7A512D0E5C3600CFAEF1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		820B7A582D0E5C3600CFAEF1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		820B7A592D0E5C3600CFAEF1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		820B7A5B2D0E5C3600CFAEF1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"WHOPadex/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.skrram.WHOPadex;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		820B7A5C2D0E5C3600CFAEF1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"WHOPadex/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.skrram.WHOPadex;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		820B7A5E2D0E5C3600CFAEF1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.skrram.WHOPadexTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WHOPadex.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WHOPadex";
+			};
+			name = Debug;
+		};
+		820B7A5F2D0E5C3600CFAEF1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.skrram.WHOPadexTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WHOPadex.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WHOPadex";
+			};
+			name = Release;
+		};
+		820B7A612D0E5C3600CFAEF1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.skrram.WHOPadexUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = WHOPadex;
+			};
+			name = Debug;
+		};
+		820B7A622D0E5C3600CFAEF1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.skrram.WHOPadexUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = WHOPadex;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		820B7A312D0E5C3400CFAEF1 /* Build configuration list for PBXProject "WHOPadex" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				820B7A582D0E5C3600CFAEF1 /* Debug */,
+				820B7A592D0E5C3600CFAEF1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		820B7A5A2D0E5C3600CFAEF1 /* Build configuration list for PBXNativeTarget "WHOPadex" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				820B7A5B2D0E5C3600CFAEF1 /* Debug */,
+				820B7A5C2D0E5C3600CFAEF1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		820B7A5D2D0E5C3600CFAEF1 /* Build configuration list for PBXNativeTarget "WHOPadexTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				820B7A5E2D0E5C3600CFAEF1 /* Debug */,
+				820B7A5F2D0E5C3600CFAEF1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		820B7A602D0E5C3600CFAEF1 /* Build configuration list for PBXNativeTarget "WHOPadexUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				820B7A612D0E5C3600CFAEF1 /* Debug */,
+				820B7A622D0E5C3600CFAEF1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		820B7A782D0EBE8C00CFAEF1 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.1.3;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		820B7A792D0EBE8C00CFAEF1 /* SDWebImageSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 820B7A782D0EBE8C00CFAEF1 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */;
+			productName = SDWebImageSwiftUI;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 820B7A2E2D0E5C3400CFAEF1 /* Project object */;
+}

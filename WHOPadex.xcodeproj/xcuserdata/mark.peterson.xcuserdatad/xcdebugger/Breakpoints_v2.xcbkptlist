@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EC45C187-9B28-4A7B-89C7-998EA8CB290D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09A7A788-0A93-48BE-8A07-E62C679164F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WHOPadex/Data Models/PokeDex.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "pokemonDataFromFile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09A7A788-0A93-48BE-8A07-E62C679164F5 - 1ea39b6f41b457c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.pokemonDataFromFile() -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "09A7A788-0A93-48BE-8A07-E62C679164F5 - 1ea39b6f41b457c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.pokemonDataFromFile() -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "640">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B411B30-7E57-45FB-9F34-85BEE44DE0A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WHOPadex/Data Models/PokeDex.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "pokemonDataFromFile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B411B30-7E57-45FB-9F34-85BEE44DE0A1 - 1ea39b6f41b456ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.pokemonDataFromFile() -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "4B411B30-7E57-45FB-9F34-85BEE44DE0A1 - 1ea39b6f41b45744"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.pokemonDataFromFile() -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "237C8A71-A9B0-4C85-B575-9EBA577976CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WHOPadex/Data Models/PokeDex.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "populateData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5823806E-78EF-4D8C-B8E0-7779C30825CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WHOPadex/Data Models/PokeDex.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "populateData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5823806E-78EF-4D8C-B8E0-7779C30825CD - e0490dcfadaf1e72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "4272">
+               </Location>
+               <Location
+                  uuid = "5823806E-78EF-4D8C-B8E0-7779C30825CD - e0490dcfadaf1e72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "4652">
+               </Location>
+               <Location
+                  uuid = "5823806E-78EF-4D8C-B8E0-7779C30825CD - e0490dcfadaf1ef6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "4652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "090AF884-FBAB-420D-9984-06E8D4FA2C04"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WHOPadex/Data Models/PokeDex.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "populateData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "090AF884-FBAB-420D-9984-06E8D4FA2C04 - e0490dcfadaf1ddf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "3112">
+               </Location>
+               <Location
+                  uuid = "090AF884-FBAB-420D-9984-06E8D4FA2C04 - e0490dcfadaf1ddf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "3480">
+               </Location>
+               <Location
+                  uuid = "090AF884-FBAB-420D-9984-06E8D4FA2C04 - e0490dcfadaf1e53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "3480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5A7F742-E071-4332-BCA6-957EE2FB9D7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WHOPadex/Data Models/PokeDex.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "populateData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C5A7F742-E071-4332-BCA6-957EE2FB9D7F - e0490dcfadaf1d38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1892">
+               </Location>
+               <Location
+                  uuid = "C5A7F742-E071-4332-BCA6-957EE2FB9D7F - e0490dcfadaf1d38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "2308">
+               </Location>
+               <Location
+                  uuid = "C5A7F742-E071-4332-BCA6-957EE2FB9D7F - e0490dcfadaf1dbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "2308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A019449-48BA-4D16-BF38-0FC52EB8A1DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WHOPadex/Data Models/PokeDex.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "populateData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A019449-48BA-4D16-BF38-0FC52EB8A1DC - e0490dcfadaf1c85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "1A019449-48BA-4D16-BF38-0FC52EB8A1DC - e0490dcfadaf1c85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "1A019449-48BA-4D16-BF38-0FC52EB8A1DC - e0490dcfadaf1c85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1012">
+               </Location>
+               <Location
+                  uuid = "1A019449-48BA-4D16-BF38-0FC52EB8A1DC - e0490dcfadaf1ca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "1A019449-48BA-4D16-BF38-0FC52EB8A1DC - e0490dcfadaf1ca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "1A019449-48BA-4D16-BF38-0FC52EB8A1DC - e0490dcfadaf1ca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  uuid = "1A019449-48BA-4D16-BF38-0FC52EB8A1DC - e0490dcfadaf1ca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "908">
+               </Location>
+               <Location
+                  uuid = "1A019449-48BA-4D16-BF38-0FC52EB8A1DC - e0490dcfadaf1ca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A231284-010C-418F-9E80-C826EE8223D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WHOPadex/Data Models/PokeDex.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "populateData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A231284-010C-418F-9E80-C826EE8223D1 - e0490dcfadaf1cc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "9A231284-010C-418F-9E80-C826EE8223D1 - e0490dcfadaf1c85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "9A231284-010C-418F-9E80-C826EE8223D1 - e0490dcfadaf1c85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "9A231284-010C-418F-9E80-C826EE8223D1 - e0490dcfadaf1c85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WHOPadex.PokeDex.populateData() -&gt; ()"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/Data%20Models/PokeDex.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1012">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2804237D-E7F1-4637-B943-8305869C4547"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WHOPadex/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2804237D-E7F1-4637-B943-8305869C4547 - c61a66714841ee5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (WHOPadex.Pokemon) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "848">
+               </Location>
+               <Location
+                  uuid = "2804237D-E7F1-4637-B943-8305869C4547 - 605de6b6228e086c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (WHOPadex.Pokemon) -&gt; SwiftUI.EmptyView in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "2804237D-E7F1-4637-B943-8305869C4547 - c61a66714841ee5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (WHOPadex.Pokemon) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "812">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9B18C3D-33B7-43D1-B588-700B78970525"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WHOPadex/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D9B18C3D-33B7-43D1-B588-700B78970525 - 605de6b6228e086c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (WHOPadex.Pokemon) -&gt; SwiftUI.EmptyView in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "D9B18C3D-33B7-43D1-B588-700B78970525 - c61a66714841ee3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (WHOPadex.Pokemon) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "D9B18C3D-33B7-43D1-B588-700B78970525 - c61a66714841ee3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (WHOPadex.Pokemon) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "788">
+               </Location>
+               <Location
+                  uuid = "D9B18C3D-33B7-43D1-B588-700B78970525 - c61a66714841ee79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (WHOPadex.Pokemon) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "D9B18C3D-33B7-43D1-B588-700B78970525 - c61a66714841ee79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (WHOPadex.Pokemon) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "788">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB0655CE-C41E-461C-AD32-68CFFC671A1B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WHOPadex/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "BB0655CE-C41E-461C-AD32-68CFFC671A1B - 277584019aca5106"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.String) -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "624">
+               </Location>
+               <Location
+                  uuid = "BB0655CE-C41E-461C-AD32-68CFFC671A1B - 1f54a6457eb2f15f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.String) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "980">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFD74904-3CD2-461A-ABB6-67CFF7A9DC2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WHOPadex/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DFD74904-3CD2-461A-ABB6-67CFF7A9DC2C - cc5aa5c16c6cc17b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "2328">
+               </Location>
+               <Location
+                  uuid = "DFD74904-3CD2-461A-ABB6-67CFF7A9DC2C - 277584019aca5161"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.String) -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "604">
+               </Location>
+               <Location
+                  uuid = "DFD74904-3CD2-461A-ABB6-67CFF7A9DC2C - 1f54a6457eb2f138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.String) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "DFD74904-3CD2-461A-ABB6-67CFF7A9DC2C - 1f54a6457eb2f138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.String) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in WHOPadex.ContentView.body.getter : some"
+                  moduleName = "WHOPadex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mark.peterson/Documents/Projects/WHOPadex/WHOPadex/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
